@@ -916,14 +916,148 @@ The module ensures:
 **Google Doc Link**: [Modules Testing Assignment](https://docs.google.com/document/d/1YHGPKiRUQ0TMEIk8w4HZ7sWOhSeqEkCdI3leq7ubZ_k/edit?usp=sharing)
 
 ## UI for Application
-- **Design Principles:** Guidelines followed.
-- **Screenshots:** Embedded images with descriptions.
-- **User Flow:** How users navigate the application.
+# **Institute Work Department (IWD GAD-2)**
+
+**Faculty Mentor:** Dr. Durgesh Singh  
+**Student Mentor:** Gagan Singh (21BCS084)
+
+### **Prepared by:**
+- Kunal Raj (21BCS118)
+- Vidyadhar Rishabh Nigam (21BCS239)
+- Kunal Marmat (21BCS173)
+- Vijay Kumar Saharan (21BSM030)
+- (21BCS240)
+
+---
+
+## **Figma Profiles for IWD (GAD-2)**
+
+### **1. Module Description:**
+
+The Institute Work Department module serves as the nerve center of our esteemed institute's operational excellence, where precision and collaboration intersect to uphold standards of efficiency and resource utilization. Within this pivotal framework, stakeholders including the dean, director, employees, and administrative personnel converge to orchestrate seamless processes and ensure optimal allocation of resources.
+
+At the helm, the dean and director wield decision-making authority, guiding the approval or rejection of requests vital to our institute's functioning. Meanwhile, employees serve as catalysts for innovation, initiating requests that reflect frontline perspectives. Administrative personnel, adept at financial stewardship and inventory management, ensure fiscal integrity through diligent budget oversight, audit compliance, and meticulous inventory supervision.
+
+United in our commitment to excellence, we strive to propel the institute towards new horizons of achievement. With strategic oversight and collaborative engagement, the Institute Work Department module stands as a testament to our collective determination to thrive in an ever-evolving landscape.
+
+---
+
+### **2. Actors**
+
+#### 1. **ENGINEER :-**
+![Engineer](assets/GAD-2_UI_APP-1.jpeg)
+
+#### 2. **DEAN :-**
+![Dean](assets/GAD-2_UI_APP-2.jpeg)
+
+#### 3. **DIRECTOR :-**
+![Director](assets/GAD-2_UI_APP-3.jpeg)
+
+#### 4. **IWD ADMIN :-**
+![IWD Admin](assets/GAD-2_UI_APP-4.jpeg)
+
+#### 5. **AUDITOR :-**
+![Auditor](assets/GAD-2_UI_APP-5.jpeg)
+
+#### 6. **ACCOUNT ADMIN :-**
+![Account Admin](assets/GAD-2_UI_APP-6.jpeg)
+
+---
+
+## **Figma Profile Design Guidelines and Additional Considerations**
+
+1. **Cross-Platform Compatibility:**
+   - Verify that Figma designs and features are compatible across app version only.
+
+2. **Dimension Standardization:**
+   - All Figma designs have the same dimensions around 360px width for mobile.
+
+3. **Actor-Oriented Use Case-Based Design:**
+   - All Figma designs are strictly based on use cases of actors and have a maintained consistency with previous and newly added designs.
+   - Each actor has a different page in Figma profiles.
+
+---
+
+**Figma Link:**  
+[PR IWD Figma](https://www.figma.com/file/BtzObStu5I2G9ymx2FBGpD/PR-IWD?type=design&node-id=0-1&mode=design&t=duiCPiqFDn6q15Pe-0)
+
 
 ## UI for Web
-- **Design Elements:** Colors, typography, etc.
-- **Responsive Design:** How UI adapts to different devices.
-- **Accessibility:** Compliance with accessibility standards.
+# **Figma Profiles for GAD-2 IWD (Web)** 
+
+## **Module Description:**  
+
+The IWD Module within Fusion plays a crucial role in overseeing the upkeep of campus property and ensuring its efficient maintenance. Its primary responsibility is to guarantee the smooth functioning of all on-site assets, promptly addressing any malfunctions that may arise.  
+
+Additionally, the IWD Module actively oversees and manages the construction of new properties, demonstrating a comprehensive approach to both maintaining existing assets and facilitating the development of new ones on the campus.
+
+This dual focus reinforces its commitment to the overall well-being and advancement of the campus infrastructure.
+
+[GAD-2 IWD Use Case Specifications](https://docs.google.com/document/d/1RkqFgSMCQy3FLpzJ5aYf903HNKyPsBHDczrxVLfBsiY/edit?usp=sharing)  
+[GAD-2 IWD Figma](https://www.figma.com/file/TxWEHzOMPx6PfSYEYYTjf4/GAD-2-IWD?type=design&node-id=0%3A1&mode=design&t=lcPPPmDURlZnBGNI-1)
+
+---
+
+## **Actors**
+
+### 1. **Engineer** 
+
+The Engineer initiates a new service request, issues the corresponding work order, and facilitates the processing of the associated bill to be submitted to higher authorities.
+
+![Engineer](assets/GAD-2_UI_WEB-1.png)
+
+---
+
+### 2. **Dean** 
+
+Processes the requests from the engineer and passes it on to the director. The dean can also view the budget.
+
+![Dean](assets/GAD-2_UI_WEB-2.png)
+
+---
+
+### 3. **Director** 
+
+The director is responsible for approving or rejecting the requests from the engineer, processed by the dean.
+
+![Director](assets/GAD-2_UI_WEB-3.png)
+
+---
+
+### 4. **Auditor** 
+
+The auditor reviews all submitted documents comprehensively.
+
+![Auditor](assets/GAD-2_UI_WEB-4.png)
+
+---
+
+### 5. **Account Admin** 
+
+The account admin settles the bill generated from the engineer.
+
+![Account Admin](assets/GAD-2_UI_WEB-5.png)
+
+---
+
+### 6. **Employee** 
+
+The employee initiates a new work request.
+
+![Employee](assets/GAD-2_UI_WEB-6.png)
+
+---
+
+### 7. **IWD Admin** 
+
+The IWD Admin manages the budget and oversees the inventory, providing engineers with access to manage and utilize the available resources.
+
+![IWD Admin](assets/GAD-2_UI_WEB-7.png)
+
+---
+
+[GAD-2 IWD Figma](https://www.figma.com/file/TxWEHzOMPx6PfSYEYYTjf4/GAD-2-IWD?type=design&node-id=0%3A1&mode=design&t=lcPPPmDURlZnBGNI-1)
+
 
 ## Database Schema
 **Module Name: GAD – 2 IWD (Android)**

@@ -151,7 +151,7 @@ The module ensures:
 ## **Use Case Diagram**
 
 
-![GAD-2 IWD Use Case Diagram](images/GAD-2_UCD.jpg)
+![GAD-2 IWD Use Case Diagram](assets/GAD-2_UCD.jpg)
 
 
 

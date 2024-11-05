@@ -10,7 +10,7 @@
 - [Database Schema](#database-schema)
 
 ## User-Centered Design (UCD)
-![UCD](assets/GAD-2_UCD.jpsg)
+![UCD](assets/GAD-2_UCD.jpg)
 
 ## SRS Application
 # Institute Work Department ERP 

@@ -13,13 +13,7 @@
 ![Use Case Diagram](assets/GAD-5_UCD.png)
 
 ## SRS Application
-# Fusion ERP
 
-## Software Requirements Specification
-
-**for**
-
-**GAD-5-DASHBOARD**
 
 **Prepared by:**
 
@@ -193,13 +187,7 @@ This module will be accessible from every module from the top and the available 
 
 
 ## SRS Web Interface
-# Fusion ERP
 
-## Software Requirements Specification
-
-**for**
-
-**GAD-5-DASHBOARD**
 
 **Prepared by:**
 
@@ -373,7 +361,7 @@ This module will be accessible from every module from the top and the available 
 
 
 ## API Specifications
-# Module Name – GAD – 5 (DASHBOARD MODULE)
+
 **Student Mentor** – Pranjal Jha (21BCS161)
 
 ## API Documentation of GAD-5 - DASHBOARD Module
@@ -608,7 +596,7 @@ Receives academic-related notifications.
 
 
 ## Database Schema
-# Module Name – GAD 5 (Dashboard)
+
 **Faculty Mentor** – Prof. Neelam Dayal  
 **Student Mentor** – Pranjal Jha  
 

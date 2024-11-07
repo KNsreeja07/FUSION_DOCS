@@ -13,7 +13,7 @@
 ![UCD](assets/GAD4_UCD.jpeg)
 
 ## SRS Application
-# Fusion ERP Software Requirements Specification for GAD- 4 - FILE TRACKING SYSTEM
+
 
 **Prepared by:**
 
@@ -254,7 +254,7 @@ Ensure data confidentiality and integrity. Role-based authorization provided by 
 
 
 ## SRS Web Interface
-# Fusion ERP Software Requirements Specification for GAD- 4 - FILE TRACKING SYSTEM
+
 
 **Prepared by:**
 
@@ -495,7 +495,7 @@ Ensure data confidentiality and integrity. Role-based authorization provided by 
 
 
 ## API Specifications
-# MODULE: FILE TRACKING GAD-4
+
 
 ## Student Mentor:
 - Priyanshu Agarwal - 21BCS167
@@ -745,7 +745,7 @@ These are the already implemented web views that serve static-rendered templates
 
 
 ## UI for Application
-# Figma Profiles for GAD4 [File Tracking Module]
+
 
 ## 1. Module Description
 
@@ -822,7 +822,7 @@ System Administrator aims to use the system to streamline file management proces
 
 
 ## UI for Web
-# Figma Profiles for GAD4 [File Tracking Module]
+
 
 ## 1. Module Description
 
@@ -891,7 +891,7 @@ System Administrator aims to use the system to streamline file management proces
 
 
 ## Database Schema
-# Module Name - File Tracking (GAD-4)  
+
 **Faculty Mentor** - Dr. Avinash Chandra Pandey  
 **Student Mentor** - Priyanshu Aggarwal, Vansh Mittal  
 

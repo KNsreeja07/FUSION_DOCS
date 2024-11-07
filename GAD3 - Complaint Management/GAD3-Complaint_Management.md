@@ -13,7 +13,7 @@
 ![Use Case Diagram](assets/GAD-3_UCD.png)
 
 ## SRS Application
-# FUSION ERP Software Requirements Specification for GAD-3-COMPLAINT MANAGEMENT (APP) 
+ 
 
 **Prepared by:** Ananya Sharma (21BCS020), Armin Patel (21BCS031), Chahit Kolte (21BCS062), Harsh Chauhan (21BCS094), Harshith Sudar (21BCS097) 
 
@@ -210,7 +210,7 @@ Data dependencies of the Complaint registration module:
 The Complaint registration module interacts with the Notification, Dashboard, and File Transfering system.
 
 ## SRS Web Interface
-# Fusion ERP Software Requirements Specification for GAD 3 – Complaint Management System 
+
 
 **Faculty Mentor:** Dr. Avinash Chandra Pandey 
 
@@ -417,7 +417,7 @@ The figure represents the use case diagram for the module features.
 
 
 ## API Specifications
-# **Module Name** - GAD 3 (Complaint Module)
+
 
 **Student Mentor** - Hardik Pratap Singh (21BCS090)
 
@@ -557,7 +557,7 @@ The central complaint system is designed to efficiently manage and resolve issue
 
 
 ## UI for Application
-# **Figma Profiles for Complaint Management System (GAD-3)**
+ **Figma Profiles for Complaint Management System (GAD-3)**
 
 ## **(Mobile)**
 
@@ -613,7 +613,7 @@ the list and proceed to assign a worker to address it.
 
 
 ## UI for Web
-# **Complaint Management System**
+
 
 ## **Mentor Name:** Pratik kumar(21bcs164)
 ## **Faculty Mentor:** Dr. Avinash Chandra Panday
@@ -676,7 +676,7 @@ Specific Functionalities:
 
 
 ## Database Schema
-# **Module Name - Complaint Management System**
+
 
 **Faculty Mentor** - Dr. Avinash Chandra Pandey  
 **Student Mentor** - Hardik Pratap Singh (21BCS090)

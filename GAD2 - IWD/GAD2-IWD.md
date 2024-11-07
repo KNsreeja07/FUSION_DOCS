@@ -13,9 +13,7 @@
 ![UCD](assets/GAD-2_UCD.jpg)
 
 ## SRS Application
-# Institute Work Department ERP 
-
-# Software Requirements Specification 
+ 
 
 **Faculty Mentor:**  Dr Durgesh Singh  Student Mentor:  Gagan Singh - 21BCS084 
 
@@ -399,9 +397,7 @@ The IWD module interacts with the "Purchase and Store" module to efficiently man
 
 
 ## SRS Web Interface
-# ﻿Software Requirements Specification
 
-# GAD-2 IWD (WEB)
 
 **Team Details**
 
@@ -773,7 +769,7 @@ The IWD module will be interac  ng with the “Purchase and Store” module for 
 
 
 ## API Specifications
-# GAD-2 IWD Module (Web)
+
 
 ### **Student Mentor**: Kushagra Yadav (21BCS121)
 
@@ -916,7 +912,7 @@ The module ensures:
 **Google Doc Link**: [Modules Testing Assignment](https://docs.google.com/document/d/1YHGPKiRUQ0TMEIk8w4HZ7sWOhSeqEkCdI3leq7ubZ_k/edit?usp=sharing)
 
 ## UI for Application
-# **Institute Work Department (IWD GAD-2)**
+
 
 **Faculty Mentor:** Dr. Durgesh Singh  
 **Student Mentor:** Gagan Singh (21BCS084)
@@ -983,7 +979,7 @@ United in our commitment to excellence, we strive to propel the institute toward
 
 
 ## UI for Web
-# **Figma Profiles for GAD-2 IWD (Web)** 
+
 
 ## **Module Description:**  
 
@@ -1060,7 +1056,7 @@ The IWD Admin manages the budget and oversees the inventory, providing engineers
 
 
 ## Database Schema
-**Module Name: GAD – 2 IWD (Android)**
+
 
 **Faculty Mentor: Dr. Durgesh Singh**
 

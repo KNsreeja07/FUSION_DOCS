@@ -11,7 +11,7 @@
 
 ## User-Centered Design (UCD)
 ### Overview
-![Use Case Diagram](assets/RSPC_v2.png)
+![Use Case Diagram](assets/RSPC_V2.png)
 
 ## SRS App
 ### Functional Requirements

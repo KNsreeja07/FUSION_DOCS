@@ -9,8 +9,8 @@
 - [UI for Web](#ui-for-web)
 - [Database Schema](#database-schema)
 
-## User-Centered Design (UCD)    
- ## [SRS](#srs-application)
+## User-Centered Design (UCD)                     ## [SRS](#srs-application)
+ 
 ![](./Assests/usecase.png)
 
 ## SRS Application
